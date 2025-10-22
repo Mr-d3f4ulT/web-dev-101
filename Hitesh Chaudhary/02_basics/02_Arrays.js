@@ -62,4 +62,3 @@ console.log();
 bikes1.forEach((bike, idx) => {
   console.log(`Bike ${idx + 1}: ${bike.brand} - ${bike.name}`);
 });
-console.log("THis is a new change");
